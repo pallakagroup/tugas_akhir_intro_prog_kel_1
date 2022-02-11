@@ -12,7 +12,7 @@ public class laundry_tugasakhir{
          int jenis, berat, harga = 0, total, diskon, hasil, nopilihan;
          int j1 = 35000, j2 = 12000, j3 = 15000, j4 = 30000;
 
-         ///end Inisiasi harga
+         ///end Inisiasi harga //berubah
 
         //Tampilan input data
         System.out.println("=========== LAUNDRY KASIR ===========");
